@@ -1,0 +1,27 @@
+## ARQUIVOS DE COMPILAÇÃO DO LATEX
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.out
+
+## PYTHON
+__pycache__/
+*.pyc
+.venv/
+**/__pycache__/
+*.pyc
+venv/
+
+## BANCO DE DADOS
+*.db
+
+## NODE
+node_modules/
+dist/
+build/
+
+.env
+## VSCODE
+.vscode

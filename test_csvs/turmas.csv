@@ -1,0 +1,243 @@
+course_code,section_code,semester,capacity,professor_name,schedules
+MAT01355,B1,2025/2,5,Thaisa Raupp Tamusiunas,Terça 10:30-12:10 Sala 101 - Campus: Vale; Quinta 10:30-12:10 Sala 101 - Campus: Vale
+MAT01355,C1,2025/2,15,ADRIANA NEUMANN DE OLIVEIRA,Terça 13:30-15:10 Sala 101 - Campus: Vale; Quinta 13:30-15:10 Sala 101 - Campus: Vale
+MAT01355,D1,2025/2,1,LEANDRO FARINA,Terça 15:30-17:10 Sala 101 - Campus: Vale; Quinta 15:30-17:10 Sala 101 - Campus: Vale
+MAT01355,D2,2025/2,11,ADRIANA NEUMANN DE OLIVEIRA,Terça 15:30-17:10 Sala 102 - Campus: Vale; Quinta 15:30-17:10 Sala 102 - Campus: Vale
+MAT01355,E1,2025/2,3,LUCAS HENRIQUE BACKES,Terça 18:30-20:10 Sala 101 - Campus: Vale; Quinta 18:30-20:10 Sala 101 - Campus: Vale
+INF01202,A,2025/2,5,MARCELO WALTER,Segunda 13:30-15:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quarta 13:30-15:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quinta 13:30-15:10 LABORATORIO DE ENSINO 102 - PRÉDIO 43425 - Campus: Vale
+INF01202,B,2025/2,9,MARCELO WALTER,Segunda 13:30-15:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quarta 13:30-15:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quinta 15:30-17:10 LABORATORIO DE ENSINO 102 - PRÉDIO 43425 - Campus: Vale
+INF01202,C,2025/2,16,ERIKA FERNANDES COTA,Segunda 15:30-17:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quarta 15:30-17:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quinta 13:30-15:10 LABORATORIO DE ENSINO 104 - PRÉDIO 43425 - Campus: Vale
+INF01202,D,2025/2,7,ERIKA FERNANDES COTA,Segunda 15:30-17:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quarta 15:30-17:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quinta 15:30-17:10 LABORATORIO DE ENSINO 104 - PRÉDIO 43425 - Campus: Vale
+INF01202,E,2025/2,3,RENAN DE QUEIROZ MAFFEI,Terça 13:30-15:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quinta 13:30-15:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Sexta 13:30-15:10 LABORATORIO DE ENSINO 102 - PRÉDIO 43425 - Campus: Vale
+INF01202,F,2025/2,12,RENAN DE QUEIROZ MAFFEI,Terça 13:30-15:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quinta 13:30-15:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Sexta 15:30-17:10 LABORATORIO DE ENSINO 102 - PRÉDIO 43425 - Campus: Vale
+INF01202,G,2025/2,2,CARLA MARIA DAL SASSO FREITAS,Terça 15:30-17:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quinta 15:30-17:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Sexta 13:30-15:10 LABORATORIO DE ENSINO 104 - PRÉDIO 43425 - Campus: Vale
+INF01202,H,2025/2,10,CARLA MARIA DAL SASSO FREITAS,Terça 15:30-17:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quinta 15:30-17:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Sexta 15:30-17:10 LABORATORIO DE ENSINO 104 - PRÉDIO 43425 - Campus: Vale
+INF01017,U,2025/2,20,MARIANA RECAMONDE MENDOZA GUERREIRO,Terça 10:30-12:10 AUDITÓRIO 0 - Campus: Vale; Quinta 10:30-12:10 AUDITÓRIO 0 - Campus: Vale
+MAT01353,A2,2025/2,10,JOSE AFONSO BARRIONUEVO,Segunda 8:30-10:10 Sala 103 - Campus: Vale; Quarta 8:30-10:10 Sala 103 - Campus: Vale; Sexta 8:30-10:10 Sala 103 - Campus: Vale
+MAT01353,B1,2025/2,26,JOSE AFONSO BARRIONUEVO,Segunda 10:30-12:10 Sala 101 - Campus: Vale; Quarta 10:30-12:10 Sala 101 - Campus: Vale; Sexta 10:30-12:10 Sala 101 - Campus: Vale
+MAT01353,D2,2025/2,6,JOAO MATHEUS JURY GIRALDI,Segunda 15:30-17:10 Sala 102 - Campus: Vale; Quarta 15:30-17:10 Sala 102 - Campus: Vale; Sexta 15:30-17:10 Sala 102 - Campus: Vale
+MAT01353,E1,2025/2,8,Cibele Aparecida Ladeia,Segunda 18:30-20:10 Sala 104 - Campus: Vale; Quarta 18:30-20:10 Sala 104 - Campus: Vale; Sexta 18:30-20:10 Sala 104 - Campus: Vale
+MAT01354,A2,2025/2,3,VIRGINIA MARIA RODRIGUES,Segunda 8:30-10:10 Sala 104 - Campus: Vale; Quarta 8:30-10:10 Sala 104 - Campus: Vale; Sexta 8:30-10:10 Sala 104 - Campus: Vale
+MAT01354,B1,2025/2,38,JACQUES AVELINE LOUREIRO DA SILVA,Segunda 10:30-12:10 Sala 102 - Campus: Vale; Quarta 10:30-12:10 Sala 102 - Campus: Vale; Sexta 10:30-12:10 Sala 102 - Campus: Vale
+MAT01354,E1,2025/2,3,NEWTON LOEBENS,Segunda 18:30-20:10 Sala 101 - Campus: Vale; Quarta 18:30-20:10 Sala 101 - Campus: Vale; Sexta 18:30-20:10 Sala 101 - Campus: Vale
+ENG10001,A,2025/2,5,CARLOS EDUARDO PEREIRA,Segunda 13:30-15:10 A definir; Quarta 13:30-15:10 A definir
+ENG10001,B,2025/2,5,WALTER FETTER LAGES,Terça 13:30-15:10 Sala 304 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro; Quinta 13:30-15:10 Sala 304 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro
+ENG10002,A,2025/2,5,BIBIANA MAITÊ PETRY FERRAZ,Terça 13:30-15:10 Sala 303 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro; Quinta 13:30-15:10 Sala 303 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro
+ENG10002,B,2025/2,5,ALCEU HEINKE FRIGERI,Segunda 13:30-15:10 Sala 303 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro; Sexta 13:30-15:10 Sala 303 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro
+ENG04077,A,2025/2,3,HAMILTON DUARTE KLIMACH,Terça 10:30-12:10 Sala 303 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro; Terça 13:30-15:10 202 - Laboratório de Ensino de Graduação - Campus: Centro; Quinta 10:30-12:10 Sala 303 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro
+ENG04077,B,2025/2,3,HAMILTON DUARTE KLIMACH,Terça 10:30-12:10 Sala 303 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro; Terça 15:30-17:10 202 - Laboratório de Ensino de Graduação - Campus: Centro; Quinta 10:30-12:10 Sala 303 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro
+ENG04077,E,2025/2,9,GILSON INACIO WIRTH,Segunda 8:30-10:10 Sala 304 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro; Segunda 10:30-12:10 202 - Laboratório de Ensino de Graduação - Campus: Centro; Quarta 8:30-10:10 Sala 304 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro
+ENG04077,F,2025/2,9,GILSON INACIO WIRTH,Segunda 8:30-10:10 Sala 304 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro; Quarta 8:30-10:10 Sala 304 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro; Quarta 10:30-12:10 202 - Laboratório de Ensino de Graduação - Campus: Centro
+ENG04077,G,2025/2,14,GILSON INACIO WIRTH,Segunda 8:30-10:10 Sala 304 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro; Quarta 8:30-10:10 Sala 304 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro; Sexta 13:30-15:10 202 - Laboratório de Ensino de Graduação - Campus: Centro
+INF01185,U,2025/2,30,SERGIO BAMPI,Terça 15:30-17:10 Sala de Aula 108 - 43413 - Campus: Vale; Quinta 15:30-17:10 Sala de Aula 108 - 43413 - Campus: Vale
+INF01194,U,2025/2,30,Claudio Machado Diniz,Terça 13:30-15:10 Laboratório de Ensino 103 - 43413 - Campus: Vale; Quinta 13:30-15:10 Laboratório de Ensino 103 - 43413 - Campus: Vale
+INF01127,A,2025/2,14,LETICIA DOS SANTOS MACHADO,Segunda 10:30-12:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quarta 10:30-12:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale
+INF01127,B,2025/2,9,LUCINÉIA HELOISA THOM,Terça 15:30-17:10 SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale; Quinta 15:30-17:10 SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale
+MAT01167,B1,2025/2,25,SUSANA FROMETA FERNANDEZ,Segunda 10:30-12:10 F101 - Campus: Vale; Quarta 10:30-12:10 F101 - Campus: Vale; Sexta 10:30-12:10 F101 - Campus: Vale
+MAT01167,B3,2025/2,0,ARTHUR MIRANDA DO ESPIRITO SANTO,Segunda 10:30-12:10 Sala 106 - Campus: Vale; Quarta 10:30-12:10 Sala 106 - Campus: Vale; Sexta 10:30-12:10 Sala 106 - Campus: Vale
+MAT01167,D1,2025/2,18,LUIS GUSTAVO DONINELLI MENDES,Segunda 15:30-17:10 Sala 103 - Campus: Vale; Quarta 15:30-17:10 Sala 103 - Campus: Vale; Sexta 15:30-17:10 Sala 103 - Campus: Vale
+INF01203,A,2025/2,15,DENNIS GIOVANI BALREIRA,Segunda 13:30-15:10 SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale; Quarta 13:30-15:10 SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale
+INF01203,B,2025/2,13,DENNIS GIOVANI BALREIRA,Segunda 15:30-17:10 SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale; Quarta 15:30-17:10 SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale
+INF01203,C,2025/2,13,RENATA DE MATOS GALANTE,Terça 13:30-15:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale; Quinta 13:30-15:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale
+FIS01182,A,2025/2,5,Marcus Vinicius Castegnaro,Segunda 8:30-10:10 Sala G211 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 8:30-10:10 Sala G211 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 8:30-10:10 Sala G211 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01182,AA,2025/2,20,Marcus Vinicius Castegnaro,Segunda 8:30-10:10 Sala G211 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 8:30-10:10 Sala G211 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 8:30-10:10 Sala G211 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01182,BB,2025/2,10,GILBERTO LIMA THOMAS,Segunda 8:30-10:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 8:30-10:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 8:30-10:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01182,H,2025/2,2,ALEXANDRE DA CAS VIEGAS,Segunda 13:30-15:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 13:30-15:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 13:30-15:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01181,B3,2025/2,20,GEOVANE NAYSINGER,Segunda 8:30-10:10 Sala G216 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 8:30-10:10 Sala G216 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 8:30-10:10 Sala G216 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01181,C1,2025/2,5,ANTONIO ENDLER,Segunda 8:30-10:10 Sala G220 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 8:30-10:10 Sala G220 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 8:30-10:10 Sala G220 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01181,C2,2025/2,10,ANTONIO ENDLER,Segunda 8:30-10:10 Sala G220 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 8:30-10:10 Sala G220 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 8:30-10:10 Sala G220 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01181,E3,2025/2,10,JULIAN PENKOV GESHEV,Segunda 10:30-12:10 Sala G216 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 10:30-12:10 Sala G216 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 10:30-12:10 Sala G216 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01181,H1,2025/2,4,GEOVANE NAYSINGER,Segunda 13:30-15:10 Sala G216 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 13:30-15:10 Sala G216 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 13:30-15:10 Sala G216 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01181,L3,2025/2,5,LEANDRO LANGIE ARAUJO,Segunda 15:30-17:10 Sala G220 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 15:30-17:10 Sala G220 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 15:30-17:10 Sala G220 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01181,P3,2025/2,5,GEOVANE NAYSINGER,Segunda 20:30-22:10 Sala G220 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 20:30-22:10 Sala G220 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 20:30-22:10 Sala G220 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01183,BB,2025/2,1,MARCO AURELIO PIRES IDIART,Segunda 8:30-10:10 Sala 108 - Campus: Vale; Quarta 8:30-10:10 Sala 108 - Campus: Vale; Sexta 8:30-10:10 Sala 108 - Campus: Vale
+INF01145,A,2025/2,8,KARIN BECKER,Segunda 8:30-10:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quarta 8:30-10:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale
+INF01145,B,2025/2,4,RENATA DE MATOS GALANTE,Terça 15:30-17:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale; Quinta 15:30-17:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale
+INF01047,U,2025/2,6,EDUARDO SIMÕES LOPES GASTAL,Terça 10:30-12:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale; Quinta 10:30-12:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale
+INF01046,A,2025/2,10,JACOB SCHARCANSKI,Terça 15:30-17:10 Laboratório de Ensino 104 - 43413 - Campus: Vale; Quinta 15:30-17:10 Laboratório de Ensino 104 - 43413 - Campus: Vale
+INF01046,B,2025/2,10,MANUEL MENEZES DE OLIVEIRA NETO,Segunda 13:30-15:10 SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale; Quarta 13:30-15:10 SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale
+INF01048,A,2025/2,16,Joel Luis Carbonera,Terça 8:30-10:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale; Quinta 8:30-10:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale
+INF01048,B,2025/2,16,Joel Luis Carbonera,Terça 13:30-15:10 AUDITÓRIO 0 - Campus: Vale; Quinta 13:30-15:10 AUDITÓRIO 0 - Campus: Vale
+ECP99002,U,2025/2,39,RENATO VENTURA BAYAN HENRIQUES,Terça 15:30-17:10 A definir
+ENG10003,A,2025/2,1,TRISTAO JULIO GARCIA DOS SANTOS,Sexta 13:30-15:10 200 - Laboratório de Ensino de Graduação - Campus: Centro
+ENG10003,B,2025/2,2,TRISTAO JULIO GARCIA DOS SANTOS,Sexta 15:30-17:10 200 - Laboratório de Ensino de Graduação - Campus: Centro
+ENG10003,C,2025/2,1,TRISTAO JULIO GARCIA DOS SANTOS,Terça 13:30-15:10 200 - Laboratório de Ensino de Graduação - Campus: Centro
+ENG10003,D,2025/2,1,TRISTAO JULIO GARCIA DOS SANTOS,Terça 15:30-17:10 200 - Laboratório de Ensino de Graduação - Campus: Centro
+INF05508,A,2025/2,15,ROSA MARIA VICARI,Terça 10:30-12:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale; Quinta 10:30-12:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale
+INF05508,B,2025/2,13,MARCIO DORN,Terça 15:30-17:10 SALA DE AULA 107 - P. 43425 - Campus: Vale; Quinta 15:30-17:10 SALA DE AULA 107 - P. 43425 - Campus: Vale
+INF05508,C,2025/2,25,LUCIO MAURO DUARTE,Terça 8:30-10:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale; Quinta 8:30-10:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale
+MAT01168,B,2025/2,25,Álvaro Krüger Ramos,Segunda 10:30-12:10 Sala 105 - Campus: Vale; Quarta 10:30-12:10 Sala 105 - Campus: Vale; Sexta 10:30-12:10 Sala 105 - Campus: Vale
+MAT01168,D,2025/2,5,ESEQUIA SAUTER,Segunda 15:30-17:10 Sala 104 - Campus: Vale; Quarta 15:30-17:10 Sala 104 - Campus: Vale; Sexta 15:30-17:10 Sala 104 - Campus: Vale
+MAT01375,A,2025/2,42,RICARDO MISTURINI,Terça 8:30-10:10 Sala 103 - Campus: Vale; Quinta 8:30-10:10 Sala 103 - Campus: Vale
+MAT01375,B,2025/2,43,RICARDO MISTURINI,Terça 10:30-12:10 Sala 103 - Campus: Vale; Quinta 10:30-12:10 Sala 103 - Campus: Vale
+INF01113,A,2025/2,10,LUIGI CARRO,Terça 8:30-10:10 SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale; Quinta 8:30-10:10 SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale
+INF01113,B,2025/2,10,GABRIEL LUCA NAZAR,Terça 10:30-12:10 SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale; Quinta 10:30-12:10 SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale
+MAT02219,A1,2025/2,5,MÁRCIA HELENA BARBIAN,Terça 8:30-10:10 Sala 106 - Campus: Vale; Quinta 8:30-10:10 Sala 106 - Campus: Vale
+MAT02219,B1,2025/2,5,GUILHERME PUMI,Segunda 10:30-12:10 Sala 201 do Prédio Salas de Aula Campus do Vale - 43324 - Campus: Vale; Quarta 10:30-12:10 Sala 201 do Prédio Salas de Aula Campus do Vale - 43324 - Campus: Vale
+INF01008,U,2025/2,22,Arthur Francisco Lorenzon,Segunda 10:30-12:10 LABORATORIO DE ENSINO 102 - PRÉDIO 43425 - Campus: Vale; Quarta 10:30-12:10 LABORATORIO DE ENSINO 102 - PRÉDIO 43425 - Campus: Vale
+ECP99001,U,2025/2,35,LETICIA DOS SANTOS MACHADO,Sexta 13:30-15:10 SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale
+INF01045,U,2025/2,20,Jeferson Campos Nobre,Segunda 15:30-17:10 SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale; Quarta 15:30-17:10 SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale
+INF01175,U,2025/2,25,FERNANDA GUSMAO DE LIMA KASTENSMIDT,Terça 10:30-12:10 LABORATORIO DE ENSINO 102 - PRÉDIO 43425 - Campus: Vale; Quinta 10:30-12:10 LABORATORIO DE ENSINO 102 - PRÉDIO 43425 - Campus: Vale
+INF01142,A,2025/2,15,NICOLAS BRUNO MAILLARD,Segunda 13:30-15:10 AUDITÓRIO 1 - Campus: Vale; Quarta 13:30-15:10 AUDITÓRIO 1 - Campus: Vale
+INF01142,B,2025/2,20,NICOLAS BRUNO MAILLARD,Terça 13:30-15:10 AUDITÓRIO 1 - Campus: Vale; Quinta 13:30-15:10 AUDITÓRIO 1 - Campus: Vale
+INF01120,A,2025/2,15,Karina Kohl Silveira,Segunda 13:30-15:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale; Quarta 13:30-15:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale
+INF01120,B,2025/2,18,MARCELO SOARES PIMENTA,Terça 8:30-10:10 SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale; Quinta 8:30-10:10 SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale
+INF05501,A,2025/2,13,BRUNO IOCHINS GRISCI,Segunda 13:30-15:10 SALA DE AULA 107 - P. 43425 - Campus: Vale; Quarta 13:30-15:10 SALA DE AULA 107 - P. 43425 - Campus: Vale
+INF05501,B,2025/2,17,RODRIGO MACHADO,Terça 13:30-15:10 SALA DE AULA 107 - P. 43425 - Campus: Vale; Quinta 13:30-15:10 SALA DE AULA 107 - P. 43425 - Campus: Vale
+ENG04010,U,2025/2,25,RAPHAEL MARTINS BRUM,Segunda 10:30-12:10 A definir; Quarta 10:30-12:10 A definir
+MAT01355,A1,2025/2,14,Wanderley Nunes Do Nascimento,Terça 8:30-10:10 Sala 101 - Campus: Vale; Quinta 8:30-10:10 Sala 101 - Campus: Vale
+MAT01355,B2,2025/2,6,JANAINA PIRES ZINGANO,Terça 10:30-12:10 Sala 102 - Campus: Vale; Quinta 10:30-12:10 Sala 102 - Campus: Vale
+MAT01355,C2,2025/2,15,CARLOS FELIPE LARDIZABAL RODRIGUES,Terça 13:30-15:10 Sala 102 - Campus: Vale; Quinta 13:30-15:10 Sala 102 - Campus: Vale
+MAT01353,A1,2025/2,25,JACQUES AVELINE LOUREIRO DA SILVA,Segunda 8:30-10:10 Sala 101 - Campus: Vale; Quarta 8:30-10:10 Sala 101 - Campus: Vale; Sexta 8:30-10:10 Sala 101 - Campus: Vale
+MAT01353,B2,2025/2,8,JOAO BATISTA DA PAZ CARVALHO,Segunda 10:30-12:10 43123-205-Instituto de Química - Sala de Aula - Campus: Vale; Quarta 10:30-12:10 43123-205-Instituto de Química - Sala de Aula - Campus: Vale; Sexta 10:30-12:10 43123-205-Instituto de Química - Sala de Aula - Campus: Vale
+MAT01354,A1,2025/2,55,JOANA MOHR,Segunda 8:30-10:10 Sala 102 - Campus: Vale; Quarta 8:30-10:10 Sala 102 - Campus: Vale; Sexta 8:30-10:10 Sala 102 - Campus: Vale
+MAT01032,U,2025/2,50,RUDNEI DIAS DA CUNHA,Terça 13:30-15:10 F115 Laboratório de Informática - Campus: Vale; Quinta 13:30-15:10 F115 Laboratório de Informática - Campus: Vale
+INF05008,A,2025/2,32,LUCAS NUNES ALEGRE,Segunda 10:30-12:10 SALA DE AULA 107 - P. 43425 - Campus: Vale; Quarta 10:30-12:10 SALA DE AULA 107 - P. 43425 - Campus: Vale
+INF05008,B,2025/2,32,LUCIO MAURO DUARTE,Terça 10:30-12:10 SALA DE AULA 107 - P. 43425 - Campus: Vale; Quinta 10:30-12:10 SALA DE AULA 107 - P. 43425 - Campus: Vale
+INF05008,C,2025/2,31,LEILA RIBEIRO,Terça 8:30-10:10 SALA DE AULA 107 - P. 43425 - Campus: Vale; Quinta 8:30-10:10 SALA DE AULA 107 - P. 43425 - Campus: Vale
+INF01043,U,2025/2,30,LUCIANA PORCHER NEDEL,Terça 8:30-10:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quinta 8:30-10:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale
+INF05005,U,2025/2,40,MARIANA LUDERITZ KOLBERG FERNANDES,Segunda 15:30-17:10 SALA DE AULA 107 - P. 43425 - Campus: Vale; Quarta 15:30-17:10 SALA DE AULA 107 - P. 43425 - Campus: Vale
+INF05010,A,2025/2,29,Henrique Becker,Terça 13:30-15:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale; Quinta 13:30-15:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale
+INF05010,B,2025/2,29,MARCUS ROLF PETER RITT,Segunda 10:30-12:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale; Quarta 10:30-12:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale
+MAT02219,B2,2025/2,8,HUGO HENRIQUE KEGLER DOS SANTOS,Terça 10:30-12:10 Sala 106 - Campus: Vale; Quinta 10:30-12:10 Sala 106 - Campus: Vale
+MAT02219,C1,2025/2,10,MÁRCIA HELENA BARBIAN,Terça 13:30-15:10 A definir; Quinta 13:30-15:10 A definir
+MAT01355,A1,2026/1,33,CARLOS HOPPEN,Terça 8:30-10:10 Sala 102 - Campus: Vale; Quinta 8:30-10:10 Sala 102 - Campus: Vale
+MAT01355,B1,2026/1,21,JANAINA PIRES ZINGANO,Terça 10:30-12:10 Sala 102 - Campus: Vale; Quinta 10:30-12:10 Sala 102 - Campus: Vale
+MAT01355,C2,2026/1,10,MARIA PAULA GONCALVES FACHIN,Terça 13:30-15:10 Sala 103 - Campus: Vale; Quinta 13:30-15:10 Sala 103 - Campus: Vale
+MAT01355,D1,2026/1,15,LEANDRO FARINA,Terça 15:30-17:10 Sala 102 - Campus: Vale; Quinta 15:30-17:10 Sala 102 - Campus: Vale
+INF01202,E,2026/1,20,Joel Luis Carbonera,Segunda 13:30-15:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quarta 13:30-15:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Sexta 13:30-15:10 LABORATORIO DE ENSINO 102 - PRÉDIO 43425 - Campus: Vale
+INF01202,F,2026/1,20,Joel Luis Carbonera,Segunda 13:30-15:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quarta 13:30-15:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Sexta 15:30-17:10 LABORATORIO DE ENSINO 102 - PRÉDIO 43425 - Campus: Vale
+INF01202,I,2026/1,2,MARCELO WALTER,Segunda 13:30-15:10 AUDITÓRIO 1 - Campus: Vale; Quarta 13:30-15:10 AUDITÓRIO 1 - Campus: Vale; Sexta 13:30-15:10 LABORATORIO DE ENSINO 104 - PRÉDIO 43425 - Campus: Vale
+INF01202,J,2026/1,3,MARCELO WALTER,Segunda 13:30-15:10 AUDITÓRIO 1 - Campus: Vale; Quarta 13:30-15:10 AUDITÓRIO 1 - Campus: Vale; Sexta 15:30-17:10 LABORATORIO DE ENSINO 104 - PRÉDIO 43425 - Campus: Vale
+INF01202,L,2026/1,2,CLAUDIO ROSITO JUNG,Segunda 8:30-10:10 SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale; Quarta 8:30-10:10 SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale; Sexta 10:30-12:10 LABORATÓRIO DE ENSINO (INTRODUTÓRIAS) 105 - PRÉDIO 43425 - Campus: Vale
+INF01202,M,2026/1,8,DENNIS GIOVANI BALREIRA,Segunda 8:30-10:10 SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale; Quarta 8:30-10:10 SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale; Sexta 8:30-10:10 Laboratório de Ensino 103 - 43413 - Campus: Vale
+INF01202,N,2026/1,1,DENNIS GIOVANI BALREIRA,Segunda 8:30-10:10 SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale; Quarta 8:30-10:10 SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale; Sexta 8:30-10:10 A definir
+INF01017,U,2026/1,5,MARIANA RECAMONDE MENDOZA GUERREIRO,Terça 8:30-10:10 A definir; Quinta 8:30-10:10 A definir
+INF01075,A,2026/1,35,SERGIO LUIS CECHIN,Segunda 10:30-12:10 AUDITÓRIO 1 - Campus: Vale; Quarta 10:30-12:10 AUDITÓRIO 1 - Campus: Vale
+INF01075,B,2026/1,35,Claudio Machado Diniz,Segunda 13:30-15:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale; Quarta 13:30-15:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale
+INF01075,C,2026/1,5,FERNANDA GUSMAO DE LIMA KASTENSMIDT,Terça 13:30-15:10 Laboratório de Ensino 101 - 43413 - Campus: Vale; Quinta 13:30-15:10 Laboratório de Ensino 101 - 43413 - Campus: Vale
+INF01145,A,2026/1,27,KARIN BECKER,Segunda 8:30-10:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale; Quarta 8:30-10:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale
+MAT01353,A1,2026/1,55,JACQUES AVELINE LOUREIRO DA SILVA,Segunda 8:30-10:10 Sala 101 - Campus: Vale; Quarta 8:30-10:10 Sala 101 - Campus: Vale; Sexta 8:30-10:10 Sala 101 - Campus: Vale
+MAT01353,B1,2026/1,35,JOSE AFONSO BARRIONUEVO,Segunda 10:30-12:10 Sala 101 - Campus: Vale; Quarta 10:30-12:10 Sala 101 - Campus: Vale; Sexta 10:30-12:10 Sala 101 - Campus: Vale
+MAT01353,D2,2026/1,10,JULIO CESAR LOMBALDO FERNANDES,Segunda 15:30-17:10 Sala 102 - Campus: Vale; Quarta 15:30-17:10 Sala 102 - Campus: Vale; Sexta 15:30-17:10 Sala 102 - Campus: Vale
+MAT01353,D3,2026/1,4,Felipe Crivellaro Minuzzi,Terça 15:30-18:00 A definir; Quinta 15:30-18:00 A definir
+MAT01354,A1,2026/1,39,JOANA MOHR,Segunda 8:30-10:10 Sala 104 - Campus: Vale; Quarta 8:30-10:10 Sala 104 - Campus: Vale; Sexta 8:30-10:10 Sala 104 - Campus: Vale
+MAT01354,B1,2026/1,6,JACQUES AVELINE LOUREIRO DA SILVA,Segunda 10:30-12:10 Sala 104 - Campus: Vale; Quarta 10:30-12:10 Sala 104 - Campus: Vale; Sexta 10:30-12:10 Sala 104 - Campus: Vale
+MAT01354,C1,2026/1,11,JULIANA SARTORI ZIEBELL,Segunda 13:30-15:10 Sala 103 - Campus: Vale; Quarta 13:30-15:10 Sala 103 - Campus: Vale; Sexta 13:30-15:10 Sala 103 - Campus: Vale
+MAT01354,E1,2026/1,7,ARTHUR MIRANDA DO ESPIRITO SANTO,Segunda 18:30-20:10 Sala 102 - Campus: Vale; Quarta 18:30-20:10 Sala 102 - Campus: Vale; Sexta 18:30-20:10 Sala 102 - Campus: Vale
+INF01045,U,2026/1,3,Jeferson Campos Nobre,Segunda 13:30-15:10 A definir; Quarta 13:30-15:10 A definir
+ENG10001,A,2026/1,10,CARLOS EDUARDO PEREIRA,Segunda 13:30-15:10 A definir; Quarta 13:30-15:10 A definir
+ENG10001,B,2026/1,10,ROBERTO CHOUHY LEBORGNE,Terça 13:30-15:10 Sala 303 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro; Quinta 13:30-15:10 Sala 303 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro
+ENG10002,B,2026/1,14,VALNER JOAO BRUSAMARELLO,Segunda 13:30-15:10 Sala 303 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro; Quarta 13:30-15:10 Sala 303 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro
+ENG04077,A,2026/1,2,HAMILTON DUARTE KLIMACH,Terça 10:30-12:10 Sala 303 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro; Terça 13:30-15:10 202 - Laboratório de Ensino de Graduação - Campus: Centro; Quinta 10:30-12:10 Sala 303 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro
+ENG04077,B,2026/1,2,HAMILTON DUARTE KLIMACH,Terça 10:30-12:10 Sala 303 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro; Terça 15:30-17:10 202 - Laboratório de Ensino de Graduação - Campus: Centro; Quinta 10:30-12:10 Sala 303 do(a) Escola de Engenharia (Eletrotécnico) - Campus: Centro
+ENG04077,E,2026/1,10,GILSON INACIO WIRTH,Segunda 8:30-10:10 700 Anfiteatro do Prédio da Engenharia Nova - Campus: Centro; Segunda 10:30-12:10 202 - Laboratório de Ensino de Graduação - Campus: Centro; Quarta 8:30-10:10 700 Anfiteatro do Prédio da Engenharia Nova - Campus: Centro
+ENG04077,F,2026/1,10,GILSON INACIO WIRTH,Segunda 8:30-10:10 700 Anfiteatro do Prédio da Engenharia Nova - Campus: Centro; Quarta 8:30-10:10 700 Anfiteatro do Prédio da Engenharia Nova - Campus: Centro; Quarta 10:30-12:10 202 - Laboratório de Ensino de Graduação - Campus: Centro
+INF01047,A,2026/1,25,EDUARDO SIMÕES LOPES GASTAL,Segunda 8:30-10:10 SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale; Quarta 8:30-10:10 SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale
+INF01047,B,2026/1,25,EDUARDO SIMÕES LOPES GASTAL,Segunda 10:30-12:10 SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale; Quarta 10:30-12:10 SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale
+INF01185,U,2026/1,30,Claudio Machado Diniz,Segunda 15:30-17:10 SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale; Quarta 15:30-17:10 SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale
+INF01194,U,2026/1,30,SERGIO BAMPI,Terça 13:30-15:10 Sala de Aula 106 -  43413 - Campus: Vale; Quinta 13:30-15:10 Sala de Aula 106 -  43413 - Campus: Vale
+INF01120,A,2026/1,30,Karina Kohl Silveira,Segunda 10:30-12:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale; Quarta 10:30-12:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale
+INF01120,C,2026/1,9,MARCELO SOARES PIMENTA,Terça 8:30-10:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale; Quinta 8:30-10:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale
+INF01120,D,2026/1,9,MARCELO SOARES PIMENTA,Terça 10:30-12:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale; Quinta 10:30-12:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale
+INF01127,C,2026/1,2,LETICIA DOS SANTOS MACHADO,Terça 13:30-15:10 SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale; Quinta 13:30-15:10 SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale
+MAT01167,A1,2026/1,8,SUSANA FROMETA FERNANDEZ,Segunda 8:30-10:10 Sala 106 - Campus: Vale; Quarta 8:30-10:10 Sala 106 - Campus: Vale; Sexta 8:30-10:10 Sala 106 - Campus: Vale
+MAT01167,B1,2026/1,12,EVANDRO MANICA,Segunda 10:30-12:10 Sala 103 - Campus: Vale; Quarta 10:30-12:10 Sala 103 - Campus: Vale; Sexta 10:30-12:10 Sala 103 - Campus: Vale
+MAT01167,C1,2026/1,9,LUIS GUSTAVO DONINELLI MENDES,Segunda 13:30-15:10 Sala 104 - Campus: Vale; Quarta 13:30-15:10 Sala 104 - Campus: Vale; Sexta 13:30-15:10 Sala 104 - Campus: Vale
+MAT01167,D1,2026/1,4,LUIS GUSTAVO DONINELLI MENDES,Segunda 15:30-17:10 Sala 106 - Campus: Vale; Quarta 15:30-17:10 Sala 106 - Campus: Vale; Sexta 15:30-17:10 Sala 106 - Campus: Vale
+MAT01167,E1,2026/1,9,ALEXANDRE TAVARES BARAVIERA,Segunda 18:30-20:10 Sala 103 - Campus: Vale; Quarta 18:30-20:10 Sala 103 - Campus: Vale; Sexta 18:30-20:10 Sala 103 - Campus: Vale
+INF01203,A,2026/1,35,RENATA DE MATOS GALANTE,Segunda 10:30-12:10 SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale; Quarta 10:30-12:10 SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale
+INF01203,B,2026/1,4,JOAO LUIZ DIHL COMBA,Segunda 13:30-15:10 SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale; Quarta 13:30-15:10 SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale
+FIS01182,A,2026/1,16,FELIPE FERREIRA SELAU,Segunda 8:30-10:10 O 207 CREF Laboratório de Ensino - Campus: Vale; Quarta 8:30-10:10 O 207 CREF Laboratório de Ensino - Campus: Vale; Sexta 8:30-10:10 O 207 CREF Laboratório de Ensino - Campus: Vale
+FIS01182,DD,2026/1,13,CRISTIANO KRUG,Segunda 10:30-12:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 10:30-12:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 10:30-12:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01182,II,2026/1,13,Jade Barreto,Segunda 13:30-15:10 43123-208-Instituto de Química - Sala de Aula - Campus: Vale; Quarta 13:30-15:10 43123-208-Instituto de Química - Sala de Aula - Campus: Vale; Sexta 13:30-15:10 43123-208-Instituto de Química - Sala de Aula - Campus: Vale
+FIS01182,JJ,2026/1,1,Jade Barreto,Segunda 15:30-17:10 43123-207-Instituto de Química - Sala de Aula - Campus: Vale; Quarta 15:30-17:10 43123-207-Instituto de Química - Sala de Aula - Campus: Vale; Sexta 15:30-17:10 43123-207-Instituto de Química - Sala de Aula - Campus: Vale
+FIS01182,KK,2026/1,7,Marcus Vinicius Castegnaro,Segunda 15:30-17:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 15:30-17:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 15:30-17:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01182,LL,2026/1,1,ISMAEL ANDRE HEISLER,Segunda 18:30-20:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 18:30-20:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 18:30-20:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01181,C2,2026/1,18,Antonio Mauricio Soares Narciso Ferreira,Segunda 8:30-10:10 Sala G220 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 8:30-10:10 Sala G220 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 8:30-10:10 Sala G220 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01181,E3,2026/1,20,ANTONIO ENDLER,Segunda 10:30-12:10 Sala G216 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 10:30-12:10 Sala G216 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 10:30-12:10 Sala G216 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01181,I1,2026/1,5,EMERSON GUSTAVO DE SOUZA LUNA,Segunda 13:30-15:10 Sala G220 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 13:30-15:10 Sala G220 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 13:30-15:10 Sala G220 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01181,K3,2026/1,7,ARIADNE KOCHE,Segunda 15:30-17:10 Sala G216 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 15:30-17:10 Sala G216 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 15:30-17:10 Sala G216 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01181,P3,2026/1,1,EDUARDO OSÓRIO RIZZATTI,Segunda 20:30-22:10 Sala G212 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 20:30-22:10 Sala G212 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 20:30-22:10 Sala G212 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01183,A,2026/1,15,ALEXANDRE PEREIRA DOS SANTOS,Segunda 8:30-10:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 8:30-10:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 8:30-10:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01183,AA,2026/1,2,ALEXANDRE PEREIRA DOS SANTOS,Segunda 8:30-10:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 8:30-10:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 8:30-10:10 Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01183,DD,2026/1,15,ANGELA FOERSTER,Segunda 10:30-12:10 Sala 107 - Campus: Vale; Quarta 10:30-12:10 Sala 107 - Campus: Vale; Sexta 10:30-12:10 Sala 107 - Campus: Vale
+FIS01183,EE,2026/1,5,MARCO AURELIO PIRES IDIART,Segunda 13:30-15:10 Sala G211 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Quarta 13:30-15:10 Sala G211 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale; Sexta 13:30-15:10 Sala G211 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale
+FIS01183,F,2026/1,5,ALEXANDRE PEREIRA DOS SANTOS,Segunda 15:30-17:10 43123-209-Instituto de Química - Sala de Aula - Campus: Vale; Quarta 15:30-17:10 43123-209-Instituto de Química - Sala de Aula - Campus: Vale; Sexta 15:30-17:10 43123-209-Instituto de Química - Sala de Aula - Campus: Vale
+INF01048,A,2026/1,30,LUCAS RAFAEL COSTELLA PESSUTTO,Segunda 8:30-10:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale; Quarta 8:30-10:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale
+INF01048,B,2026/1,30,Joel Luis Carbonera,Segunda 10:30-12:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale; Quarta 10:30-12:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale
+ECP99002,U,2026/1,35,RENATO VENTURA BAYAN HENRIQUES,Terça 15:30-17:10 Sala 0307 IPODIA do Prédio Centenário - Campus: Centro
+ECP99002,U1,2026/1,10,RENATO VENTURA BAYAN HENRIQUES,Quinta 13:30-15:10 A definir
+ENG10003,A,2026/1,1,TRISTAO JULIO GARCIA DOS SANTOS,Terça 15:30-17:10 200 - Laboratório de Ensino de Graduação - Campus: Centro
+ENG10003,A1,2026/1,1,TRISTAO JULIO GARCIA DOS SANTOS,Sexta 8:30-10:10 200 - Laboratório de Ensino de Graduação - Campus: Centro
+ENG10003,B,2026/1,1,TRISTAO JULIO GARCIA DOS SANTOS,Terça 13:30-15:10 200 - Laboratório de Ensino de Graduação - Campus: Centro
+ENG10003,B1,2026/1,1,TRISTAO JULIO GARCIA DOS SANTOS,Sexta 10:30-12:10 200 - Laboratório de Ensino de Graduação - Campus: Centro
+INF01082,A,2026/1,15,VALTER ROESLER,Sexta 13:30-15:10 Laboratório de Ensino (Hardware e Rede de Computadores - 105 - 43413 - Campus: Vale
+INF01082,B,2026/1,25,VALTER ROESLER,Sexta 15:30-17:10 Laboratório de Ensino (Hardware e Rede de Computadores - 105 - 43413 - Campus: Vale
+INF01082,C,2026/1,25,VALTER ROESLER,Sexta 8:30-10:10 Laboratório de Ensino (Hardware e Rede de Computadores - 105 - 43413 - Campus: Vale
+INF01082,D,2026/1,25,VALTER ROESLER,Sexta 10:30-12:10 Laboratório de Ensino (Hardware e Rede de Computadores - 105 - 43413 - Campus: Vale
+INF05029,U,2026/1,29,ÁLVARO FREITAS MOREIRA,Segunda 8:30-10:10 SALA DE AULA 107 - P. 43425 - Campus: Vale; Quarta 8:30-10:10 SALA DE AULA 107 - P. 43425 - Campus: Vale
+INF01083,U,2026/1,28,NICOLAS BRUNO MAILLARD,Segunda 8:30-10:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale; Quarta 8:30-10:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale
+INF05508,B,2026/1,20,ROSA MARIA VICARI,Terça 10:30-12:10 SALA DE AULA 107 - P. 43425 - Campus: Vale; Quinta 10:30-12:10 SALA DE AULA 107 - P. 43425 - Campus: Vale
+INF05508,E,2026/1,40,LUCIO MAURO DUARTE,Segunda 15:30-17:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale; Quarta 15:30-17:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale
+INF05508,F,2026/1,10,ÁLVARO GUGLIELMIN BECKER,Terça 15:30-17:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale; Quinta 15:30-17:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale
+INF05508,G,2026/1,20,FREDERICO MESSA SCHWARTZHAUPT,Terça 10:30-12:10 SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale; Quinta 10:30-12:10 SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale
+MAT01168,A,2026/1,18,ESEQUIA SAUTER,Segunda 8:30-10:10 F101 - Campus: Vale; Quarta 8:30-10:10 F101 - Campus: Vale; Sexta 8:30-10:10 F101 - Campus: Vale
+MAT01168,C,2026/1,10,JOAO BATISTA DA PAZ CARVALHO,Segunda 13:30-15:10 F101 - Campus: Vale; Quarta 13:30-15:10 F101 - Campus: Vale; Sexta 13:30-15:10 F101 - Campus: Vale
+MAT01168,D,2026/1,5,FABIO SOUTO DE AZEVEDO,Segunda 15:30-17:10 F101 - Campus: Vale; Quarta 15:30-17:10 F101 - Campus: Vale; Sexta 15:30-17:10 F101 - Campus: Vale
+MAT01375,A,2026/1,25,RICARDO MISTURINI,Terça 8:30-10:10 Sala 104 - Campus: Vale; Quinta 8:30-10:10 Sala 104 - Campus: Vale
+MAT01375,B,2026/1,30,RICARDO MISTURINI,Terça 10:30-12:10 Sala 104 - Campus: Vale; Quinta 10:30-12:10 Sala 104 - Campus: Vale
+INF01113,A,2026/1,35,LUIGI CARRO,Segunda 8:30-10:10 A definir; Quarta 8:30-10:10 A definir
+INF01113,B,2026/1,15,ANTONIO CARLOS SCHNEIDER BECK FILHO,Segunda 10:30-12:10 A definir; Quarta 10:30-12:10 A definir
+INF01113,C,2026/1,0,GABRIEL LUCA NAZAR,Terça 15:30-17:10 A definir; Quinta 15:30-17:10 A definir
+MAT02219,B2,2026/1,50,GABRIELA BETTELLA CYBIS,Terça 10:30-12:10 AUDITÓRIO PROF. JOSÉ CASTILHO - Campus: Vale; Quinta 10:30-12:10 AUDITÓRIO PROF. JOSÉ CASTILHO - Campus: Vale
+INF01046,U,2026/1,29,JACOB SCHARCANSKI,Segunda 10:30-12:10 Laboratório de Ensino 104 - 43413 - Campus: Vale; Quarta 10:30-12:10 Laboratório de Ensino 104 - 43413 - Campus: Vale
+INF01008,U,2026/1,5,Arthur Francisco Lorenzon,Terça 10:30-12:10 A definir; Quinta 10:30-12:10 A definir
+INF01086,C,2026/1,28,RENATO PEREZ RIBAS,Terça 10:30-12:10 SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale; Quinta 10:30-12:10 SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale; Sexta 10:30-12:10 Laboratório de Ensino 101 - 43413 - Campus: Vale
+INF01086,D,2026/1,28,Mateus Grellert da Silva,Terça 13:30-15:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale; Quinta 13:30-15:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale; Sexta 13:30-15:10 Laboratório de Ensino 103 - 43413 - Campus: Vale
+ECP99001,U,2026/1,35,MARCELO SOARES LUBASZEWSKI,Sexta 10:30-12:10 SALA DE AULA 107 - P. 43425 - Campus: Vale
+INF05027,A,2026/1,14,LUCAS NUNES ALEGRE,Terça 8:30-10:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale; Quinta 8:30-10:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale
+INF05027,B,2026/1,14,BRUNO IOCHINS GRISCI,Terça 10:30-12:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale; Quinta 10:30-12:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale
+INF05028,A,2026/1,25,Henrique Becker,Terça 8:30-10:10 SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale; Quinta 8:30-10:10 SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale
+INF05028,B,2026/1,25,André Grahl Pereira,Terça 10:30-12:10 SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale; Quinta 10:30-12:10 SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale
+INF01084,A,2026/1,10,ALEXANDRE DA SILVA CARISSIMI,Segunda 13:30-15:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale; Quarta 13:30-15:10 SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale
+INF01084,B,2026/1,30,WEVERTON LUIS DA COSTA CORDEIRO,Terça 13:30-15:10 AUDITÓRIO 0 - Campus: Vale; Quinta 13:30-15:10 AUDITÓRIO 0 - Campus: Vale
+INF01175,U,2026/1,30,FERNANDA GUSMAO DE LIMA KASTENSMIDT,Terça 8:30-10:10 LABORATORIO DE ENSINO 102 - PRÉDIO 43425 - Campus: Vale; Quinta 8:30-10:10 LABORATORIO DE ENSINO 102 - PRÉDIO 43425 - Campus: Vale
+INF01085,U,2026/1,15,WEVERTON LUIS DA COSTA CORDEIRO,Terça 8:30-10:10 SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale; Quinta 8:30-10:10 SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale
+INF01142,A,2026/1,35,LUCAS MELLO SCHNORR,Terça 8:30-10:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quinta 8:30-10:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale
+INF01142,B,2026/1,5,MARCELO DE OLIVEIRA JOHANN,Terça 10:30-12:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quinta 10:30-12:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale
+INF05035,U,2026/1,30,RODRIGO MACHADO,Terça 8:30-10:10 SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale; Quinta 8:30-10:10 SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale
+ENG04010,U,2026/1,25,RAPHAEL MARTINS BRUM,Segunda 10:30-12:10 A definir; Quarta 10:30-12:10 A definir
+MAT01355,B2,2026/1,13,LILIANE BASSO BARICHELLO,Terça 10:30-12:10 Sala 103 - Campus: Vale; Quinta 10:30-12:10 Sala 103 - Campus: Vale
+MAT01355,C1,2026/1,14,ADRIANA NEUMANN DE OLIVEIRA,Terça 13:30-15:10 Sala 102 - Campus: Vale; Quinta 13:30-15:10 Sala 102 - Campus: Vale
+INF01202,A,2026/1,20,ALBERTO EGON SCHAEFFER FILHO,Segunda 8:30-10:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quarta 8:30-10:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Sexta 8:30-10:10 LABORATORIO DE ENSINO 102 - PRÉDIO 43425 - Campus: Vale
+INF01202,B,2026/1,20,ALBERTO EGON SCHAEFFER FILHO,Segunda 8:30-10:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quarta 8:30-10:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Sexta 8:30-10:10 Laboratório de Ensino 102 - 43413 - Campus: Vale
+INF01202,C,2026/1,20,Eder John Scheid,Segunda 10:30-12:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quarta 10:30-12:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Sexta 10:30-12:10 LABORATORIO DE ENSINO 102 - PRÉDIO 43425 - Campus: Vale
+INF01202,D,2026/1,20,Eder John Scheid,Segunda 10:30-12:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quarta 10:30-12:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Sexta 10:30-12:10 Laboratório de Ensino 102 - 43413 - Campus: Vale
+INF01145,B,2026/1,22,RENATA DE MATOS GALANTE,Segunda 15:30-17:10 SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale; Quarta 15:30-17:10 SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale
+MAT01354,D1,2026/1,2,SAMUEL VOLKWEIS LEITE,Segunda 15:30-17:10 Sala 103 - Campus: Vale; Quarta 15:30-17:10 Sala 103 - Campus: Vale; Sexta 15:30-17:10 Sala 103 - Campus: Vale
+MAT01032,U,2026/1,45,RUDNEI DIAS DA CUNHA,Terça 15:30-17:10 F115 Laboratório de Informática - Campus: Vale; Quinta 15:30-17:10 F115 Laboratório de Informática - Campus: Vale
+INF01120,B,2026/1,30,Karina Kohl Silveira,Segunda 13:30-15:10 A definir; Quarta 13:30-15:10 A definir
+INF01127,A,2026/1,29,LUCINÉIA HELOISA THOM,Segunda 8:30-10:10 SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale; Quarta 8:30-10:10 SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale
+INF01127,B,2026/1,29,LUCINÉIA HELOISA THOM,Segunda 13:30-15:10 SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale; Quarta 13:30-15:10 SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale
+INF01043,A,2026/1,30,ANDERSON MACIEL,Segunda 13:30-15:10 SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale; Quarta 13:30-15:10 SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale
+INF01043,B,2026/1,30,LUCIANA PORCHER NEDEL,Terça 13:30-15:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale; Quinta 13:30-15:10 SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale
+INF01043,C,2026/1,30,CARLA MARIA DAL SASSO FREITAS,Sexta 8:30-11:50 SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale
+INF01043,D,2026/1,30,ANDERSON MACIEL,Segunda 15:30-17:10 SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale; Quarta 15:30-17:10 SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale
+INF01087,A,2026/1,40,DENNIS GIOVANI BALREIRA,Terça 13:30-15:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale; Quinta 13:30-15:10 SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale
+INF01087,B,2026/1,40,Mateus Grellert da Silva,Terça 10:30-12:10 AUDITÓRIO 0 - Campus: Vale; Quinta 10:30-12:10 AUDITÓRIO 0 - Campus: Vale
+INF05508,A,2026/1,38,ÁLVARO GUGLIELMIN BECKER,Segunda 15:30-17:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale; Quarta 15:30-17:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale
+INF05508,C,2026/1,40,LUCIO MAURO DUARTE,Terça 13:30-15:10 SALA DE AULA 107 - P. 43425 - Campus: Vale; Quinta 13:30-15:10 SALA DE AULA 107 - P. 43425 - Campus: Vale
+INF05508,D,2026/1,40,MARCIO DORN,Terça 15:30-17:10 SALA DE AULA 107 - P. 43425 - Campus: Vale; Quinta 15:30-17:10 SALA DE AULA 107 - P. 43425 - Campus: Vale
+INF05010,U,2026/1,28,MARCUS ROLF PETER RITT,Segunda 10:30-12:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale; Quarta 10:30-12:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale
+INF05008,A,2026/1,26,LEILA RIBEIRO,Terça 8:30-10:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale; Quinta 8:30-10:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale
+INF05008,B,2026/1,29,LUCIO MAURO DUARTE,Terça 10:30-12:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale; Quinta 10:30-12:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale
+INF05008,C,2026/1,26,LUCAS NUNES ALEGRE,Terça 13:30-15:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale; Quinta 13:30-15:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale
+INF05008,D,2026/1,27,LEILA RIBEIRO,Terça 15:30-17:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale; Quinta 15:30-17:10 SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale
+MAT02219,A1,2026/1,50,MÁRCIA HELENA BARBIAN,Terça 8:30-10:10 AUDITÓRIO PROF. JOSÉ CASTILHO - Campus: Vale; Quinta 8:30-10:10 AUDITÓRIO PROF. JOSÉ CASTILHO - Campus: Vale
+INF01100,U,2026/1,5,VIVIANE PEREIRA MOREIRA,Terça 10:30-12:10 A definir; Quinta 10:30-12:10 A definir
+INF01086,A,2026/1,28,ANDRE INACIO REIS,Segunda 8:30-10:10 Laboratório de Ensino 101 - 43413 - Campus: Vale; Quarta 8:30-10:10 A definir; Sexta 8:30-10:10 A definir
+INF01086,B,2026/1,28,José Rodrigo Furlanetto de Azambuja,Segunda 13:30-15:10 SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale; Quarta 13:30-15:10 SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale; Sexta 13:30-15:10 Laboratório de Ensino 101 - 43413 - Campus: Vale
+INF05005,A,2026/1,29,Henrique Becker,Segunda 10:30-12:10 SALA DE AULA 107 - P. 43425 - Campus: Vale; Quarta 10:30-12:10 SALA DE AULA 107 - P. 43425 - Campus: Vale
+INF05005,B,2026/1,29,MARIANA LUDERITZ KOLBERG FERNANDES,Segunda 15:30-17:10 SALA DE AULA 107 - P. 43425 - Campus: Vale; Quarta 15:30-17:10 SALA DE AULA 107 - P. 43425 - Campus: Vale
+INF05501,U,2026/1,29,RODRIGO MACHADO,Segunda 10:30-12:10 SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale; Quarta 10:30-12:10 SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale

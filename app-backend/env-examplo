@@ -1,0 +1,7 @@
+# Configurações do PMA - UFRGS Backend
+
+# Defina DEBUG=false para desativar a documentação do Swagger
+DEBUG=true
+
+# URL de conexão com o Banco de Dados
+DATABASE_URL=sqlite:///./app/schedule.db

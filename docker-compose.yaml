@@ -1,0 +1,25 @@
+services:
+  backend:
+    container_name: pma-ufrgs-backend
+    build:
+      context: ./app-backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=sqlite:////app/data/schedule.db
+      - DEBUG=false
+    volumes:
+      - ./db-data:/app/data:z
+    restart: always
+
+  frontend:
+    container_name: pma-ufrgs-frontend
+    build:
+      context: ./app-frontend
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    restart: always

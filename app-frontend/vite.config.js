@@ -15,4 +15,8 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
+  server: {
+    host: true, // Permite conexão externa (ex: celular) na mesma rede local/VPN
+    port: 5173,
+  },
 })

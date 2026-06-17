@@ -1,0 +1,7 @@
+role,name,email,card_number,password,course,current_semester,curriculum_id,comgrad_role
+student,Aluno Ciência da Computação,aluno_cc@ufrgs.br,11111111,testpassword,Ciência da Computação,1,1,
+student,Aluno Engenharia de Computação,aluno_ec@ufrgs.br,44444444,testpassword,Engenharia de Computação,1,2,
+student,Aluno Ciência da Computação 2,aluno_cc2@ufrgs.br,55555555,testpassword,Ciência da Computação,1,1,
+comgrad,Coordenador COMGRAD,comgrad@ufrgs.br,22222222,testpassword,,,,Coordenador
+admin,Administrador,admin@ufrgs.br,33333333,testpassword,,,,
+admin,Coordenador COMGRAD e Admin,comgrad_admin@ufrgs.br,66666666,testpassword,,,,Coordenador e Admin
