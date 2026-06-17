@@ -40,7 +40,7 @@ const selectPage = (pageName) => {
 
 <template>
   <v-navigation-drawer
-    :model-value="modelValue"
+    :model-value="!mobile || modelValue"
     @update:model-value="emit('update:modelValue', $event)"
     :permanent="!mobile"
     :temporary="mobile"
