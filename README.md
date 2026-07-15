@@ -1,5 +1,14 @@
 # Trabalho Prático de Engenharia de Software
 
+# Autores
+[VitorArguilar](https://github.com/MagnusLazuta/eng_software_TP/commits?author=VitorArguilar)
+[Dan-GD](https://github.com/Dan-GD)
+[vkveiga](https://github.com/vkveiga)
+[João Pedro Brun](https://github.com/jplbrun)
+[Eduardo Magnus](https://github.com/MagnusLazuta)
+
+
+
 Este projeto consiste em um sistema de gerenciamento acadêmico e geração de horários dividido em dois componentes principais:
 - **Frontend**: Aplicação SPA construída com Vue.js, Vite e Vuetify.
 - **Backend**: API RESTful construída com FastAPI, SQLAlchemy (SQLite) e Pydantic.
