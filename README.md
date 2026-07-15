@@ -2,9 +2,13 @@
 
 # Autores
 [VitorArguilar](https://github.com/MagnusLazuta/eng_software_TP/commits?author=VitorArguilar)
+
 [Dan-GD](https://github.com/Dan-GD)
+
 [vkveiga](https://github.com/vkveiga)
+
 [João Pedro Brun](https://github.com/jplbrun)
+
 [Eduardo Magnus](https://github.com/MagnusLazuta)
 
 
